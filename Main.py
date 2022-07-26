@@ -1,11 +1,16 @@
 import os
 class Stack:
+    
+    """Attributes """
+    
     def __init__(self, size):
         self.items = []
         self.size = size
 
     def is_empty(self):
         # Write code here
+        
+        
 
     def is_full(self):
         # Write code here
